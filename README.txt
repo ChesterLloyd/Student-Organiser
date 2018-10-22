@@ -1,7 +1,7 @@
 
 Title:			README
 Project:		Student Organiser
-Author:			Chester Lloyd
+Author:		Chester Lloyd
 Date Created: 		05-08-2016
 
 
